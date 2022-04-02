@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DanialYazdani
+- 👀 I’m interested in Evolutionary Computation, Dynamic optimization Problems, and Simulation Design.
+- 📫 My profiles and email can be found in my personal website: danialyazdani.com 
